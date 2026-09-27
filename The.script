@@ -1,0 +1,3 @@
+# Steal-an-egg-script-
+all scripts of steal an egg 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dayvinksthik/Script/refs/heads/main/Games/JoshBNS-Crack.lua"))()
